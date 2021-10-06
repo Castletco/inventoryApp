@@ -2,3 +2,4 @@ HELP.md
 bin/
 target/
 mvnw*
+.settings
